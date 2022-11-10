@@ -38,7 +38,7 @@ Note:
 
 III. Testing application
 
-	Run Tests project. It si also a console application that calls  RobotToy.exe and check yes/no for the error output
+	Run Tests project. It is also a console application that calls  RobotToy.exe and check yes/no for the error output
 
 
 IV. Deployment of the application
